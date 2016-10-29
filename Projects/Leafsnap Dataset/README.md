@@ -6,5 +6,7 @@
 
 3) Models were trained for increasing number of classes- [30,50,70,90,110,130,150,170]. Following is the graph for the maximum accuracy:
 
+![alt tag](https://github.com/srijan-mishra/Computer-Vision-Projects/blob/master/Projects/Leafsnap%20Dataset/graphs/Graph1.png)
+
 
 
