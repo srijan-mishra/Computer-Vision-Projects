@@ -1,5 +1,5 @@
 # Leafsnap Dataset
-Explanation:
+###Explanation:
 
 1) VGG weights download link(https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc/view)
 
@@ -9,7 +9,7 @@ Explanation:
 
 ![alt tag](https://github.com/srijan-mishra/Computer-Vision-Projects/blob/master/Projects/Leafsnap%20Dataset/graphs/Graph1.png)
 
-Files and folders:
+###Files and folders:
 
 1) 
 
