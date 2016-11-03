@@ -12,7 +12,7 @@ The leaf classification project is an attempt at solving a fine-grained classifi
 
 3) Models were trained for increasing number of classes- [30,50,70,90,110,130,150,170]. Following is the graph for the maximum accuracy:
 
-![alt tag](https://github.com/srijan-mishra/Computer-Vision-Projects/blob/master/Projects/Leafsnap%20Dataset/graphs/Graph1.png)
+![alt tag](https://github.com/srijan-mishra/Computer-Vision-Projects/blob/master/Projects/Leaf-Classification/graphs/Graph1.png)
 
 ###Files and folders:
 
