@@ -1,4 +1,4 @@
-# Leafsnap Dataset
+# Leaf Classification
 
 ###Introduction:
 
