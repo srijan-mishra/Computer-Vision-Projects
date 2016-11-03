@@ -17,3 +17,5 @@ Contains the following:
        
        2.2 generate_string.py: To generate the two strings to put in primary_train.py for different number of train/test 
        cases
+       
+       2.3 top_5.py: Script to use saved weights to get top 5 accuracy on a test database
