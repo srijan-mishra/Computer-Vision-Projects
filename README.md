@@ -4,8 +4,8 @@ Contains the following:
 
 1) Computer Vision Projects:
 
-       1.1 Leaf Classification: A fine grained classification problem on the Leafsnap datset. The dataset consists of images
-       of 23147 Lab images belonging to 185 tree species.
+       1.1 Leaf Classification: A fine grained classification problem on the Leafsnap datset. The dataset consists of
+       images of 23147 Lab images belonging to 185 tree species.
        Link: http://leafsnap.com/
        Reference: Leafsnap: A Computer Vision System for Automatic Plant Species Identification.
 
