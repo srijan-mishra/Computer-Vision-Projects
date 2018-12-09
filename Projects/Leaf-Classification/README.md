@@ -1,10 +1,10 @@
 # Leaf Classification
 
-###Introduction:
+### Introduction:
 
 The leaf classification project is an attempt at solving a fine-grained classification problem. A fine-grained classification problem is aimed at successfully differentiating between sub-classes of a particular species(leaves in this case). Another example of a fine-grained classification problem could be differentiating between various species of birds.
 
-###Explanation:
+### Explanation:
 
 1) VGG weights download link(https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc/view)
 
@@ -14,7 +14,7 @@ The leaf classification project is an attempt at solving a fine-grained classifi
 
 ![alt tag](https://github.com/srijan-mishra/Computer-Vision-Projects/blob/master/Projects/Leaf-Classification/graphs/Graph1.png)
 
-###Files and folders:
+### Files and folders:
 
 1) main.py: Self-explanatory.
 
